@@ -17,7 +17,7 @@ Given the number of varibles that go into interfacing with a website, it's clear
 One such example is I/O limited, or the existance of a bandwith issue.
 Another is CPU limited, or existance for a processor limitation
 Another is storage limited, or existance of hard drive space issue
--> This is less likely to occure given how large hard drives have become!!
+-> This is less likely to occur given how large hard drives have become!!!
 
 [Hey - click here for more!](http://en.wikipedia.org/wiki/Hard_disk_drive)
 

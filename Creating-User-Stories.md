@@ -10,3 +10,4 @@ User Stories have three componenets:
 
 N.B. There is danger that one can fall into a "justification and overeach" trap, whereby resources are wasted building out features with a high opportunity cost and not as much benefit
 
+[For more info click here](http://www.mountaingoatsoftware.com/agile/user-stories)

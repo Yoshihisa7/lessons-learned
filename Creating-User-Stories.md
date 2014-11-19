@@ -8,6 +8,6 @@ User Stories have three componenets:
 
 3. So that BENEFIT -> The value to the specific rols mentioned above E.g. Certainty, Comfort, Real-time information
 
-N.B. There is danger that one can fall into a "justification and overeach" trap, whereby resources are wasted building out features with a high opportunity cost and not as much benefit at all
+N.B. There is danger that one can fall into a "justification and overeach" trap, whereby resources are wasted building out features with a high opportunity cost and not as much benefit
 
 [For more info click here](http://www.mountaingoatsoftware.com/agile/user-stories)
